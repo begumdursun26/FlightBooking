@@ -12,6 +12,8 @@
 
   <ItemGroup>
     <Folder Include="Requirements\HeaderRequirements\" />
+    <Folder Include="Requirements\BookingRequirements\" />
+    <Folder Include="Requirements\SliderRequirements\" />
   </ItemGroup>
 
 </Project>
